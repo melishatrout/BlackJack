@@ -1,6 +1,6 @@
 //go:generate stringer -type=Suit,Rank
 
-package blackjack
+package deck
 
 import (
 	"fmt"
